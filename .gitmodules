@@ -1,0 +1,3 @@
+[submodule "front-sub"]
+	path = front-sub
+	url = https://github.com/dashuka228/front-sub
